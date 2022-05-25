@@ -26,20 +26,22 @@ header{
     background: -webkit-linear-gradient(-45deg,  #18ba9c 0%,#4ad6aa 68%,#4cd6db 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(135deg,  #18ba9c 0%,#4ad6aa 68%,#4cd6db 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#18ba9c', endColorstr='#4cd6db',GradientType=1 ); IE6-9 :fallback on horizontal gradient;
-    background:#2d2525;
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    background-image: url('https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/02/Usign-Gradients-Featured-Image.jpg');
     display:flex !important;
     justify-content:space-between !important;
     align-items:center !important;
     padding:0.5% 3% !important;
     top:0 !important;
     position:fixed !important;
+    
 }
 nav{
     display:flex;
     margin-right:20%;
     justify-content:space-evenly;
     align-items:center;
-    
+    font-size: large;
 }
 .nav-link{
     min-width:40%;
@@ -72,10 +74,13 @@ nav{
 }
 #health-tracker-card:hover{
     box-shadow: 0px 5px 5px grey;
+    transform: scale(1.15);
+        box-shadow: 10px 10px yellow;
+        transition: all 350ms ease-in-out;
     cursor:pointer;
 }
 #period-tracker-card{
-    margin:2% 15% 0% 15%;
+    margin:4% 15% 2% 15%;
     width:70%;
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b4e391+0,61c419+100,b4e391+100 */
     background: #b4e391; /* Old browsers */
@@ -111,10 +116,18 @@ nav{
     margin:3%;
     border-radius:5px;
     box-shadow: 0px 2px 2px grey;
+    transform: scale(1);
+    transition: all 150ms ease-in-out; 
+    box-shadow: 10px 10px 5px 12px lightblue;
 }
 #sub-card:hover{
     box-shadow: 0px 5px 5px grey;
     cursor:pointer;
+    transform: rotatex(0deg);
+    transform: scale(1.15);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    z-index: 10;
+    transition: all 350ms ease-in-out;
 }
 #job-content{
     margin:10% 15% 1% 15%;
@@ -255,4 +268,9 @@ box-shadow: 0px 2px 2px grey;
     margin-bottom:3%;
     text-align:center;
     color:grey;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
 }
