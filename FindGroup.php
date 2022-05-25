@@ -1,13 +1,63 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
+
+<head>
   <link rel="stylesheet" href="CSS/home-style.css">
-    <meta charset="utf-8">
-    <title>Community Engagement Activities</title>
-  </head>
-  <header id="header">
+  <meta charset="utf-8">
+  <title>Community Engagement Activities</title>
+  <style>
+    html {
+      background: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 100%);
+    }
+
+    .container {
+
+      width: 400px;
+      padding: 2rem;
+      height: 300px;
+      background: linear-gradient(to right, #FEBF01 0%, #A9F5F2 100%);
+
+    }
+
+
+    .container:hover {
+      /* display: none; */
+      color: #ff3256;
+      background: #1f1f1f;
+    }
+
+    .block {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+
+    }
+
+    left,
+    .right {
+      height: 50%;
+      width: 50%;
+      position: fixed;
+      overflow-x: hidden;
+      padding-top: 20px;
+    }
+
+    .left {
+      left: 0;
+      float: left;
+      width: 50%;
+    }
+
+    .right {
+      right: 0;
+      float: right;
+    }
+  </style>
+</head>
+<header id="header">
   <div id="brand">
-     <img id="header-img" src="assets/icon.png" href="home.php"/>
+    <img id="header-img" src="assets/icon.png" href="home.php" />
   </div>
   <nav id="nav-bar">
     <a class="nav-link" href="home.php">Home</a>
@@ -17,31 +67,76 @@
     <a class="nav-link" href="profile.php">Profile</a>
   </nav>
 </header>
-  <body style="margin-top: 200px;">
-  
 
-  <h1 style="margin-left:35%;margin-top:5%;color:#ff3256;font-family: fantasy;"><b>Community Engagement Activities</b></h1><br>
-  <div class='container' style='background:linear-gradient(to bottom, #ffff00 0%, #33cc33 100%);text-align:center;width:800px;margin: 30px auto; border-radius: 15px; box-shadow: 0px 2px 2px #ff3256;border: 2px solid;overflow:none'>
-            <h2 style='font-family:Arial, Helvetica, sans-serif;'><b>Art of Living Session</b></h2>
-            <p><b>Location</b></p>
-            <p style="color:white;">Bhilai Center, Bhilai, Chhattisgarh, India</p>
-      <p><b>  Organizer</b></p>
-      <p style="color:white">Sudarshan Kriya Practice Groups in Bhilai</p>
-      <p><b>  Description</b></p>
-      <p style="color:white">Join The Online Meditation &
-Breath Workshop. Learn Yoga and Meditation</p>
+<body style="margin-top: 200px;">
 
-            </div>  <br>
 
-            <div class='container' style='background:linear-gradient(to bottom, #ffff00 0%, #33cc33 100%);text-align:center;width:800px;margin: 30px auto; border-radius: 15px; box-shadow: 0px 2px 2px #ff3256;border: 2px solid;overflow:none'>
-            <h2 style='font-family:Arial, Helvetica, sans-serif;'><b>Training on Mental Health First Aid</b></h2>
-            <p><b>Location</b></p>
-            <p style="color:white;">The Ruby, Bombay Chamber, 4th Floor, NW 29 Senapati Bapat Marg, Dadar (West), Mumbai 400028</p>
-      <p><b>  Organizer</b></p>
-      <p style="color:white">Bombay Chamber of Commerce and Industry</p>
-      <p><b>  Description</b></p>
-      <p style="color:white">Build awareness or enhance general awareness of Signs & symptoms of mental illness and how to identify potential people in workplace to do ‘triage’ – motivate and enable reach out to professional mental health experts.</p>
+  <h1 style="margin-left:35%;margin-top:5%;color:#061818;font-family: fantasy;"><b>Community Engagement Activities</b></h1><br>
 
-            </div>
-  </body>
+  <!-- <div class="block"> -->
+  <div class="left">
+    <div class='container' style='text-align:center;margin: 30px auto; border-radius: 15px; box-shadow: 0px 2px 2px #ff3256;border: 2px solid;overflow:none'>
+      <h2 style='font-family:Arial, Helvetica, sans-serif;'><b>Art of Living Session</b></h2>
+      <p><b>Location</b></p>
+      <p style="color:#0101DF;">Bhilai Center, Bhilai, Chhattisgarh, India</p>
+      <p><b> Organizer</b></p>
+      <p style="color:#0101DF">Sudarshan Kriya Practice Groups in Bhilai</p>
+      <p><b> Description</b></p>
+      <p style="color:#0101DF">Join The Online Meditation &
+        Breath Workshop. Learn Yoga and Meditation</p>
+
+    </div>
+
+  </div>
+  <div class="left">
+    <div class='container' style='text-align:center;margin: 30px auto; border-radius: 15px; box-shadow: 0px 2px 2px #ff3256;border: 2px solid;overflow:none'>
+      <h2 style='font-family:Arial, Helvetica, sans-serif;'><b>Art of Living Session</b></h2>
+      <p><b>Location</b></p>
+      <p style="color:#0101DF;">Bhilai Center, Bhilai, Chhattisgarh, India</p>
+      <p><b> Organizer</b></p>
+      <p style="color:#0101DF">Sudarshan Kriya Practice Groups in Bhilai</p>
+      <p><b> Description</b></p>
+      <p style="color:#0101DF">Join The Online Meditation &
+        Breath Workshop. Learn Yoga and Meditation</p>
+
+    </div>
+
+  </div>
+  <div class="left">
+    <div class='container' style='text-align:center;margin: 30px auto; border-radius: 15px; box-shadow: 0px 2px 2px #ff3256;border: 2px solid;overflow:none'>
+      <h2 style='font-family:Arial, Helvetica, sans-serif;'><b>Art of Living Session</b></h2>
+      <p><b>Location</b></p>
+      <p style="color:#0101DF;">Bhilai Center, Bhilai, Chhattisgarh, India</p>
+      <p><b> Organizer</b></p>
+      <p style="color:#0101DF">Sudarshan Kriya Practice Groups in Bhilai</p>
+      <p><b> Description</b></p>
+      <p style="color:#0101DF">Join The Online Meditation &
+        Breath Workshop. Learn Yoga and Meditation</p>
+
+    </div>
+
+  </div>
+
+  <div class="left">
+    <div class='container' style='text-align:center;margin: 30px auto; border-radius: 15px; box-shadow: 0px 2px 2px #ff3256;border: 2px solid;overflow:none'>
+      <h2 style='font-family:Arial, Helvetica, sans-serif;'><b>Training on Mental Health First Aid</b></h2>
+      <p><b>Location</b></p>
+      <p style="color:#0101DF;">The Ruby, Bombay Chamber, 4th Floor, NW 29 Senapati Bapat Marg, Dadar (West), Mumbai 400028</p>
+      <p><b> Organizer</b></p>
+      <p style="color:#0101DF">Bombay Chamber of Commerce and Industry</p>
+      <p><b> Description</b></p>
+      <p style="color:#0101DF">Build awareness or enhance general awareness of Signs & symptoms of mental illness and how to identify potential people in workplace to do ‘triage’ – motivate and enable reach out to professional mental health experts.</p>
+
+    </div>
+    <!-- </div> -->
+
+
+    <br>
+
+
+  </div>
+
+
+</body>
+
 </html>
