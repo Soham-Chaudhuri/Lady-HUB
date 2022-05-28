@@ -49,6 +49,21 @@
       width: 50%;
     }
 
+    .bbt {
+      padding: 1rem;
+      background: #ff3256;
+      font-size: 1.2rem;
+      font-weight: 600;
+      border-radius: 5rem;
+      width: 50%;
+    }
+
+    .bbt:hover {
+      color: #fff;
+      background-color: #0dd;
+
+    }
+
     .right {
       right: 0;
       float: right;
@@ -85,19 +100,9 @@
       <p style="color:#0101DF">Join The Online Meditation &
         Breath Workshop. Learn Yoga and Meditation</p>
 
-    </div>
-
-  </div>
-  <div class="left">
-    <div class='container' style='text-align:center;margin: 30px auto; border-radius: 15px; box-shadow: 0px 2px 2px #ff3256;border: 2px solid;overflow:none'>
-      <h2 style='font-family:Arial, Helvetica, sans-serif;'><b>Art of Living Session</b></h2>
-      <p><b>Location</b></p>
-      <p style="color:#0101DF;">Bhilai Center, Bhilai, Chhattisgarh, India</p>
-      <p><b> Organizer</b></p>
-      <p style="color:#0101DF">Sudarshan Kriya Practice Groups in Bhilai</p>
-      <p><b> Description</b></p>
-      <p style="color:#0101DF">Join The Online Meditation &
-        Breath Workshop. Learn Yoga and Meditation</p>
+      <div class="" style=" margin:3rem;font-size:2rem;">
+        <button class="bbt" style="">Sign Up</button>
+      </div>
 
     </div>
 
@@ -112,6 +117,27 @@
       <p><b> Description</b></p>
       <p style="color:#0101DF">Join The Online Meditation &
         Breath Workshop. Learn Yoga and Meditation</p>
+      <div class="" style=" margin:3rem;font-size:2rem;">
+        <button class="bbt" style="">Sign Up</button>
+      </div>
+
+
+    </div>
+
+  </div>
+  <div class="left">
+    <div class='container' style='text-align:center;margin: 30px auto; border-radius: 15px; box-shadow: 0px 2px 2px #ff3256;border: 2px solid;overflow:none'>
+      <h2 style='font-family:Arial, Helvetica, sans-serif;'><b>Art of Living Session</b></h2>
+      <p><b>Location</b></p>
+      <p style="color:#0101DF;">Bhilai Center, Bhilai, Chhattisgarh, India</p>
+      <p><b> Organizer</b></p>
+      <p style="color:#0101DF">Sudarshan Kriya Practice Groups in Bhilai</p>
+      <p><b> Description</b></p>
+      <p style="color:#0101DF">Join The Online Meditation &
+        Breath Workshop. Learn Yoga and Meditation</p>
+      <div class="" style=" margin:3rem;font-size:2rem;">
+        <button class="bbt" style="">Sign Up</button>
+      </div>
 
     </div>
 
@@ -119,13 +145,16 @@
 
   <div class="left">
     <div class='container' style='text-align:center;margin: 30px auto; border-radius: 15px; box-shadow: 0px 2px 2px #ff3256;border: 2px solid;overflow:none'>
-      <h2 style='font-family:Arial, Helvetica, sans-serif;'><b>Training on Mental Health First Aid</b></h2>
+      <h2 style='font-family:Arial, Helvetica, sans-serif;'><b>Training on Mental Health Aid</b></h2>
       <p><b>Location</b></p>
       <p style="color:#0101DF;">The Ruby, Bombay Chamber, 4th Floor, NW 29 Senapati Bapat Marg, Dadar (West), Mumbai 400028</p>
       <p><b> Organizer</b></p>
       <p style="color:#0101DF">Bombay Chamber of Commerce and Industry</p>
       <p><b> Description</b></p>
-      <p style="color:#0101DF">Build awareness or enhance general awareness of Signs & symptoms of mental illness and how to identify potential people in workplace to do ‘triage’ – motivate and enable reach out to professional mental health experts.</p>
+      <p style="color:#0101DF">Build awareness or enhance general awareness of Signs & symptoms of mental illness .</p>
+      <div class="" style=" margin:3rem;font-size:2rem;">
+        <button class="bbt" style="">Sign Up</button>
+      </div>
 
     </div>
     <!-- </div> -->
