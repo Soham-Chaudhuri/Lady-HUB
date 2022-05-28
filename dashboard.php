@@ -9,7 +9,7 @@
 <header id="header">
 
   <div id="brand">
-     <img id="header-img" src="./assets/icon.png" href="home.php"/>
+     <img id="header-img" src="./assets/icon1.png" href="home.php"/>
      <a href="Home.php" style="text-decoration:none; color:#e8270b;"><h1 style="font-family: 'Dancing Script', cursive;"></h1></a>
   </div>
   <nav id="nav-bar">

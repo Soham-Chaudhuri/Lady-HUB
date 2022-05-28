@@ -78,7 +78,7 @@ if (isset($_POST['submit'])) {
 
 <body>
   <div id="form-head">
-    <img src="./assets/icon.png" id="form-img"></img>
+    <img src="./assets/icon1.png" id="form-img"></img>
     <h2 style="text-align: center; font-size:40px; color:#ff3256; margin:2%;">Mental Health Check</h2>
   </div>
 

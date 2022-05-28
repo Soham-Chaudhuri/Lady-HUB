@@ -69,7 +69,7 @@ if (isset($_POST['submit'])) {
 </head>
 <header id="header">
     <div id="brand">
-        <img id="header-img" src="assets/icon.png" href="home.php" />
+        <img id="header-img" src="assets/icon1.png" href="home.php" />
     </div>
     <nav id="nav-bar" style="display: flex;">
         <a class="nav-link" href="home.php">Home</a>

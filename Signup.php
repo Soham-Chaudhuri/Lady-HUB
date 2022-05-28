@@ -97,7 +97,7 @@ input[type=submit]:hover {
 ?>
 <body>
 <div id="form-head">
-    <img src="assets/icon.png" id="form-img"></img>
+    <img src="assets/icon1.png" id="form-img"></img>
     <h2 style="text-align: center; font-size:40px; color:#ff3256; margin:2%;">Signup</h2>
 </div>
 

@@ -12,9 +12,9 @@
 
   <header id="header">
     <div id="brand">
-      <img id="header-img" src="assets/icon.png" href="home.php" />
+      <img id="header-img" src="assets/icon1.png" href="home.php" />
     </div>
-    <nav id="nav-bar">
+    <nav id="nav-link">
       <a class="nav-link" href="home.php">Home</a>
       <a class="nav-link" href="FindGroup.php">Events</a>
       <a class="nav-link" href="ConsultWithDoctor.php">Consult</a>
@@ -48,7 +48,7 @@
         </a>
       </div>
       <div id="sub-card" style="background-image: url('https://thumbs.dreamstime.com/b/dark-blue-wavy-lines-abstract-background-business-card-green-gradient-template-cover-banner-design-your-company-143231885.jpg');">
-        <a href="Products.php" style="text-decoration:none;">
+        <a href="a.php" style="text-decoration:none;">
           <h1 style="color:white; margin:60px 15px 0px 15px;">Wellness Products</h1>
         </a>
       </div>
