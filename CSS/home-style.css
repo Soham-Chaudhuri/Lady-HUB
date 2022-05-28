@@ -104,7 +104,7 @@ nav {
     margin: 4% 15% 2% 15%;
     width: 70%;
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b4e391+0,61c419+100,b4e391+100 */
-    background: #fb5454;
+    background: #e8270b;
     /* Old browsers */
     background: -moz-linear-gradient(-45deg, #fb5454 0%, #fb5454 100%, #fb5454 100%);
     /* FF3.6-15 */
@@ -126,7 +126,9 @@ nav {
 
 #period-tracker-card:hover {
     box-shadow: 0px 5px 5px grey;
+    color: #ef017c;
     cursor: pointer;
+    background: #0dd;
 }
 
 #health-track-img {
