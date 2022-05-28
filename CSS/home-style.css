@@ -254,13 +254,13 @@ nav {
 
 .product-card {
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
     justify-content: flex-start;
     align-items: center;
     border: 1px solid #ff7930;
     border-radius: 5px;
     background: #fffaf8;
-    padding: 20%;
+    padding: 5%;
     width: 90%;
     margin: 5% 25%;
     box-shadow: 0px 2px 2px grey;
