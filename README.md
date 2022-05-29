@@ -1,4 +1,4 @@
-# NaariSakti
+# LadyHub
 
 A website aimed at spreading awareness and providing solution to issues related to mental and physical health and well being among women.
 Official submission for Hack4She 2020 Hackathon.
