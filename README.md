@@ -65,7 +65,7 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 <img src="" width="300">
 
 ## Our Team
-
+-Adwaita
 
 
 ### More power to women!
