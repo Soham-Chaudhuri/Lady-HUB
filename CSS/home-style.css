@@ -202,9 +202,9 @@ nav {
 
 #content-home {
     margin-bottom: 5%;
-    display: flex;
+    /* display: flex;
     justify-content: flex-start;
-    align-items: center;
+    align-items: center; */
 }
 
 #job-results {

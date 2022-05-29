@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="./CSS/home-style.css">
     <style>
         html {
-            background: url("./assets/img2.jpg");
+            background: url("./assets/img8.webp");
         }
     </style>
 </head>
@@ -28,7 +28,7 @@
     </div>
     <div id="content-home" style="display: flex; flex-direction:column; align-items:center;justify-content:center">
         <div id='doc-results'>
-            <div class='product-card' style="width: 40%;background-color:aqua">
+            <div class='product-card' style="width: 40%;background:linear-gradient(black,white,0.5)">
                 <img src='assets/doc.jpg' class='product-img'></img>
                 <div class='product-content'>
                     <h1 class='product-name'>Dr Shimali Patle</h1>
@@ -38,7 +38,7 @@
             </div>
         </div>
         <div id='doc-results'>
-            <div class='product-card' style="width:40%;background-color:aqua">
+            <div class='product-card' style="width:40%;background:linear-gradient(black,white,0.5)">
                 <img src='assets/doc.jpg' class='product-img'></img>
                 <div class='product-content'>
                     <h1 class='product-name'>Sakshi Bhandarkar</h1>
@@ -48,7 +48,7 @@
             </div>
         </div>
         <div id='doc-results'>
-            <div class='product-card' style="width:40%;background-color:aqua">
+            <div class='product-card' style="width:40%;background:linear-gradient(black,white,0.5)">
                 <img src='assets/doc.jpg' class='product-img'></img>
                 <div class='product-content'>
                     <h1 class='product-name'>Dr Anjali Patle</h1>

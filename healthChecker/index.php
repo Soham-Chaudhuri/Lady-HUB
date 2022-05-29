@@ -10,11 +10,6 @@
     <script src="libs/json2.js"></script><!-- json for ie7 -->
     <script src="libs/jquery.imagemapster.min.js?v=1.1"></script>
     <script src="libs/typeahead.bundle.js"></script>
-    <style>
-        html {
-            background: #0dd;
-        }
-    </style>
 
     <script src="symptom_selector/selector.js?v=3.3"></script>
 
@@ -57,7 +52,7 @@
 </head>
 <header id="header">
     <div id="brand">
-        <img id="header-img" src="../assets/icon.png" href="home.php" />
+        <img id="header-img" src="../assets/icon1.png" href="home.php" />
     </div>
     <nav id="nav-bar">
         <a class="nav-link" href="../home.php">Home</a>
