@@ -10,11 +10,6 @@
     <script src="libs/json2.js"></script><!-- json for ie7 -->
     <script src="libs/jquery.imagemapster.min.js?v=1.1"></script>
     <script src="libs/typeahead.bundle.js"></script>
-    <style>
-        html {
-            background: #0dd;
-        }
-    </style>
 
     <script src="symptom_selector/selector.js?v=3.3"></script>
 
