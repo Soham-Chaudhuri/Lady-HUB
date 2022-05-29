@@ -58,11 +58,12 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 
 ## Screenshots
 
-<img src="./ScreenshotsScreenshot 2022-05-29 091740.png" width="300">
+<img src="./Screenshots/Screenshot 2022-05-29 091437.png" width="300">
 <img src="./Screenshots/Screenshot 2022-05-29 091651.png" width="300">
 <img src="./Screenshots/Screenshot 2022-05-29 091618.png" width="300">
 <img src="./Screenshots/Screenshot 2022-05-29 091549.png" width="300">
-<img src="./Screenshots/Screenshot 2022-05-29 091437.png" width="300">
+<img src="./Screenshots/Screenshot 2022-05-29 091740.png" width="300">
+
 
 ## Our Team
 - Sagarika
