@@ -66,10 +66,10 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 
 
 ## Our Team
-- Sagarika
-- Anwesha 
-- Adwaita
-- Sainik
+- Sagarika Mondol
+- Sainik Khaddar
+- Adwaita Raj Modak
+- Anwesha Chakraborty
 
 
 
