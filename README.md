@@ -1,7 +1,6 @@
-# NaariSakti
+# LadyHub
 
 A website aimed at spreading awareness and providing solution to issues related to mental and physical health and well being among women.
-Official submission for Hack4She 2020 Hackathon.
 
 <p align="center">
     <img src="./assets/icon.png" alt="Logo" width="300">
@@ -59,11 +58,11 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 
 ## Screenshots
 
-<img src="Screenshots/s1.jpg" width="300">
-<img src="Screenshots/s2.jpg" width="300">
-<img src="Screenshots/s3.jpg" width="300">
-<img src="Screenshots/s4.jpg" width="300">
-<img src="Screenshots/s5.jpg" width="300">
+<img src="" width="300">
+<img src="" width="300">
+<img src="" width="300">
+<img src="" width="300">
+<img src="" width="300">
 
 ## Our Team
 
